@@ -95,6 +95,7 @@ function setup()
   console.log(hillsspeed,"hillspeed");
   console.log(sheepspeed,"sheepspeed");
   console.log(sheepx,"startsheepx");
+  testgit2;
   //각객체별2차원배열생성해주기
   pointsx=twodmakearray(pointbundle,totalpoints);
   pointsy=twodmakearray(pointbundle,totalpoints);
