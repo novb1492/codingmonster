@@ -43,7 +43,7 @@ function makenowtotalminuit(nowhour,starthour,endhour)
   }
   else
   {
-    nowminuit=minute();;
+    nowminuit=minute();
   }
 }
 function returnmin(array)
