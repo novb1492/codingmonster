@@ -3,7 +3,7 @@ let sheep;
 let spritesheet,spritedata;
 let sheepspeed=0,sheepx,sheepysw=0,n,sheeppos=[];
 let px,py;
-//stars objects//git
+//stars objects
 let stars;
 let totalstars=8;
 let starsw=1;
@@ -95,7 +95,6 @@ function setup()
   console.log(hillsspeed,"hillspeed");
   console.log(sheepspeed,"sheepspeed");
   console.log(sheepx,"startsheepx");
-  testgit2;
   //각객체별2차원배열생성해주기
   pointsx=twodmakearray(pointbundle,totalpoints);
   pointsy=twodmakearray(pointbundle,totalpoints);
