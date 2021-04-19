@@ -3,7 +3,7 @@ let sheep;
 let spritesheet,spritedata;
 let sheepspeed=0,sheepx,sheepysw=0,n,sheeppos=[];
 let px,py;
-//stars objects
+//stars objects//git
 let stars;
 let totalstars=8;
 let starsw=1;
